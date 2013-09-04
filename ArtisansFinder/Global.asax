@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ArtisansFinder.MvcApplication" Language="C#" %>
